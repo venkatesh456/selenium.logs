@@ -1,0 +1,8 @@
+20:41:46.893 [main] ERROR beta.LoggingExample2 - It's an error
+20:41:46.897 [main] FATAL beta.LoggingExample2 - This is fatal!
+20:42:13.862 [main] ERROR beta.LoggingExample2 - It's an error
+20:42:13.865 [main] FATAL beta.LoggingExample2 - This is fatal!
+20:42:51.769 [main] DEBUG alpha.LoggingExample - I'm Debugging!
+20:42:51.773 [main] INFO  alpha.LoggingExample - This is just for info
+20:42:51.773 [main] ERROR alpha.LoggingExample - It's an error
+20:42:51.773 [main] FATAL alpha.LoggingExample - This is fatal!
