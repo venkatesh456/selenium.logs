@@ -1,7 +1,9 @@
-#Selenium Logging
+# Selenium Logging
 
-##Introduction
+## Introduction
 
-##Purpose
+## Purpose
 
-##How to continue
+## Development
+
+## How to continue
